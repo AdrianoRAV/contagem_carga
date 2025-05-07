@@ -49,7 +49,7 @@ Certifique-se de ter o Flutter e o Dart SDK instalados em seu sistema. Siga as i
 
 ## ✒️ Autor
 
-- **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano Rodrigues](https://github.com/AdrianoRAV)
+- **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano](https://github.com/AdrianoRAV)
 ![App]
 ---
 
