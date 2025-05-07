@@ -1,7 +1,4 @@
 # contagem_carga
-Aplicativo 
-
-# Read_book
 
 Um aplicativo feito em flutter utilizando backend php para acessar as informações do banco de dados e fazer update, delete e create. 
 
@@ -52,8 +49,8 @@ Certifique-se de ter o Flutter e o Dart SDK instalados em seu sistema. Siga as i
 
 ## ✒️ Autor
 
-- **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano](https://github.com/AdrianoRAV)
-![App](https://github.com/AdrianoRAV/read_book/blob/main/pages.png)
+- **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano Rodrigues](https://github.com/AdrianoRAV)
+![App]
 ---
 
 
